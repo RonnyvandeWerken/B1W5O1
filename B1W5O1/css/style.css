@@ -1,0 +1,74 @@
+
+body{
+	font-family: 'Roboto', sans-serif;
+
+}
+div.pagina {
+	width: 1000px;
+}
+
+div.titelbox {
+	margin:0px auto; 
+	width: 750px;
+}
+
+.titel {
+	font-size: 36px;
+	line-height: 36px;
+	border-bottom: solid grey;
+}
+
+.TitelTekst {
+	font-size: 24px;
+	line-height: 32px;
+}
+
+div.ingrebox {
+	margin:0px auto; 
+	width: 750px;
+}
+
+.ingretitel {
+	font-size: 32px;
+	line-height: 32px;
+}
+
+.ingredienten {
+	font-size: 20px;
+	line-height: 26px;
+}
+
+.bereidingsbox {
+	margin:0px auto; 
+	width: 750px;
+}
+
+.bereidingwijze {
+	font-size: 32px;
+	line-height: 32px;
+}
+
+.bereidingplan {
+	font-size: 20px;
+	line-height: 26px;
+}
+
+.imgbox {
+	margin:0px auto; 
+	width: 750px;
+}
+.img1 {
+	 width: 400px;
+     height: 400px;
+}
+
+.tipbox {
+	margin:0px auto; 
+	width: 750px;
+}
+
+.tip {
+	background-color: #def6ed;
+	padding: 25px;
+	border-radius: 4px
+}

@@ -1,54 +1,9 @@
-body {
-	background-color: red;
-}
-
-div.titelbox {
-	margin:0px auto; 
-	width: 750px;
-}
-
-.titel {
-	font-size: 36px;
-	line-height: 36px;
-	border-bottom: solid black;
-}
-
-div.ingrebox {
-	margin:0px auto; 
-	width: 750px;
-}
-
-.ingretitel {
-	font-size: 32px;
-	line-height: 32px;
-}
-
-.ingredienten {
-	font-size: 20px;
-	line-height: 26px;
-}
-
-.bereidingsbox {
-	margin:0px auto; 
-	width: 750px;
-}
-
-.bereidingwijze {
-	font-size: 32px;
-	line-height: 32px;
-}
-
-.bereidingplan {
-	font-size: 20px;
-	line-height: 26px;
-}
 
 .imgbox {
 	margin:0px auto; 
 	width: 750px;
 }
-
 .img {
 	 width: 400px;
-     height: 600px;
+     height: 500px;
 }
